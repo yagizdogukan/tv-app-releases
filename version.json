@@ -1,7 +1,13 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.0/app-arm64-v8a-release.apk",
-  "changelog": "Ilk surum: canli TV, filmler, diziler, arama, favoriler, bakim menusu",
-  "sizeBytes": 55050125
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
+  "sizeBytes": 42425961,
+  "abis": {
+    "arm64-v8a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.1/app-arm64-v8a-release.apk", "sizeBytes": 55117921 },
+    "armeabi-v7a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.1/app-armeabi-v7a-release.apk", "sizeBytes": 42425961 },
+    "x86": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.1/app-x86-release.apk", "sizeBytes": 51027417 },
+    "x86_64": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.1/app-x86_64-release.apk", "sizeBytes": 60802869 }
+  },
+  "changelog": "Oynatici secenekleri artik ASAGI tusuyla aciliyor; canli TV'de geri tusu kanal listesini aciyor. Ayni filmin mukerrer kartlari birlestirildi, detayda diger kopyalar secilebiliyor. Favoriler ve Izlemeye devam et kategorileri eklendi. Odaklanan kartlarin kenarlarindaki kirpilma giderildi. Guncelleme artik cihazin mimarisine uygun APK indiriyor."
 }
