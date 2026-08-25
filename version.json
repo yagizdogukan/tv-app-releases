@@ -1,13 +1,13 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.6/app-armeabi-v7a-release.apk",
-  "sizeBytes": 42487433,
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.7/app-armeabi-v7a-release.apk",
+  "sizeBytes": 42504101,
   "abis": {
-    "arm64-v8a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.6/app-arm64-v8a-release.apk", "sizeBytes": 55179393 },
-    "armeabi-v7a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.6/app-armeabi-v7a-release.apk", "sizeBytes": 42487433 },
-    "x86": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.6/app-x86-release.apk", "sizeBytes": 51088889 },
-    "x86_64": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.6/app-x86_64-release.apk", "sizeBytes": 60864341 }
+    "arm64-v8a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.7/app-arm64-v8a-release.apk", "sizeBytes": 55196061 },
+    "armeabi-v7a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.7/app-armeabi-v7a-release.apk", "sizeBytes": 42504101 },
+    "x86": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.7/app-x86-release.apk", "sizeBytes": 51105557 },
+    "x86_64": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.7/app-x86_64-release.apk", "sizeBytes": 60881009 }
   },
-  "changelog": "Kanal listesi acik kaliyor; ses-altyazi secimi aninda gorunuyor; dizi kaldigi yerden devam ediyor; listelerde kaldiginiz yere donuluyor."
+  "changelog": "Son cikanlar: gercek cikis tarihine gore yeni film ve diziler. Ana sayfada iki yeni satir, listelerde Son cikanlar kategorisi."
 }
