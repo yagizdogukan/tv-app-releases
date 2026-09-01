@@ -1,13 +1,13 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.8/app-armeabi-v7a-release.apk",
-  "sizeBytes": 42504101,
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.9/app-armeabi-v7a-release.apk",
+  "sizeBytes": 42504189,
   "abis": {
-    "arm64-v8a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.8/app-arm64-v8a-release.apk", "sizeBytes": 55196061 },
-    "armeabi-v7a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.8/app-armeabi-v7a-release.apk", "sizeBytes": 42504101 },
-    "x86": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.8/app-x86-release.apk", "sizeBytes": 51105557 },
-    "x86_64": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.8/app-x86_64-release.apk", "sizeBytes": 60881009 }
+    "arm64-v8a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.9/app-arm64-v8a-release.apk", "sizeBytes": 55196149 },
+    "armeabi-v7a": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.9/app-armeabi-v7a-release.apk", "sizeBytes": 42504189 },
+    "x86": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.9/app-x86-release.apk", "sizeBytes": 51105645 },
+    "x86_64": { "apkUrl": "https://github.com/yagizdogukan/tv-app-releases/releases/download/v1.0.9/app-x86_64-release.apk", "sizeBytes": 60881097 }
   },
-  "changelog": "Karta basili tutunca acilan menu artik ilk secenegi kendiliginden secmiyor: acilistan sonra 2 saniye onay tusu kabul edilmiyor."
+  "changelog": "Canli TV kanal listesi: liste artik oynayan kanal secili aciliyor, kategoriden kanal sutununa gecis kaybolmuyor. Sag tus kategoriyi degistirmeden kanallara geciyor, OK hem seciyor hem geciyor, sol tus kategorilere donuyor. Uzun listede kaydirma hizlandirildi."
 }
